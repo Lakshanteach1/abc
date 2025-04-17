@@ -1,3 +1,8 @@
+# PAIR WEB 
+<ap href="https://asitha.top/pair"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+
+
+
 ## WORKFLOUR DEPLOY COD 🚀➤
 ```
 name: Node.js CI
